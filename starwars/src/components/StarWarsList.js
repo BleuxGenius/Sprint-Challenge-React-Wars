@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from "react";
-import axios from axios;
-import StarWarCards from "./StarWarsCards"
+import axios from "axios";
+import StarWarCards from "./StarWarCards"
 
 
 function StarWarsList (){
